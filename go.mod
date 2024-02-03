@@ -22,7 +22,7 @@ require (
 	github.com/oauth2-proxy/tools/reference-gen v0.0.0-20210118095127-56ffd7384404
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.21.1
-	github.com/pierrec/lz4/v4 v4.1.17
+	github.com/pierrec/lz4/v4 v4.1.21
 	github.com/prometheus/client_golang v1.13.0
 	github.com/spf13/cast v1.5.0
 	github.com/spf13/pflag v1.0.5
